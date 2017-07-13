@@ -1,0 +1,17 @@
+Change Component Designator: Old Designator=C600 New Designator=C608
+Change Component Designator: Old Designator=C601 New Designator=C600
+Change Component Designator: Old Designator=C602 New Designator=C601
+Change Component Designator: Old Designator=C603 New Designator=C602
+Change Component Designator: Old Designator=C604 New Designator=C603
+Change Component Designator: Old Designator=C605 New Designator=C604
+Change Component Designator: Old Designator=C606 New Designator=C605
+Change Component Designator: Old Designator=C607 New Designator=C606
+Change Component Designator: Old Designator=C608 New Designator=C607
+Change Component Designator: Old Designator=C ? New Designator=C 600
+Change Component Designator: Old Designator=C ? New Designator=C 601
+Change Component Designator: Old Designator=R600 New Designator=R601
+Change Component Designator: Old Designator=R601 New Designator=R600
+Change Component Part ID : Designator=U600 Old Part ID =8 New Part ID =9
+Change Component Part ID : Designator=U600 Old Part ID =9 New Part ID =11
+Change Component Part ID : Designator=U600 Old Part ID =11 New Part ID =8
+Change Component Designator: Old Designator=X? New Designator=X600

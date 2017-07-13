@@ -57,10 +57,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document3]
-DocumentPath=sch\sensors.SchDoc
+DocumentPath=sch\top.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=100
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=1
@@ -74,11 +74,11 @@ DItemRevisionGUID=
 [Document4]
 DocumentPath=sch\power.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=200
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -87,13 +87,13 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document5]
-DocumentPath=sch\top.SchDoc
+DocumentPath=sch\sensors.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=300
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -132,13 +132,13 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document8]
-DocumentPath=sch\fmu.SchDoc
+DocumentPath=sch\LEDs.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=400
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=3
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -149,11 +149,11 @@ DItemRevisionGUID=
 [Document9]
 DocumentPath=sch\interface.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=500
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -162,13 +162,13 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document10]
-DocumentPath=sch\LEDs.SchDoc
+DocumentPath=sch\fmu.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=600
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -207,10 +207,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [GeneratedDocument1]
-DocumentPath=lib\FMU3_REV_D.PcbLib.htm
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=..\..\pixhawk\hardware\Hardware\IMUv3_REV_C\IMU_REV_C.PcbDoc.htm
 DItemRevisionGUID=
 
