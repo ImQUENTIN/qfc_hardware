@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [qfc_Alfa1.0.PrjPcb]
+   Generated File[qfc-Plated.TXT]
+   Generated File[qfc.DRL]
+   Generated File[qfc.LDP]
+   Generated File[qfc.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:56:58 On 2017/7/20
